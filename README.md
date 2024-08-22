@@ -15,14 +15,10 @@ Bem-vindo ao meu perfil do GitHub! Sou um desenvolvedor apaixonado por tecnologi
 
 ## 📫 Como me Encontrar:
 
-- **Email:** lmartinsbicudo@gmail.com
-- **Telefone/Whats:** (51) 99273-4623
-
 <a href="https://instagram.com/luquinha_chf7" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram">
 </a>
 
 ---
-
 ⭐️ **Dê uma estrela nos repositórios que você gosta!** ⭐️
 
