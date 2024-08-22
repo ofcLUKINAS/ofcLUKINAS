@@ -1,16 +1,28 @@
-## Hi there 👋
+# Olá! Eu sou o Lucas Martins Bicudo 👋
 
-<!--
-**ofcLUKINAS/ofcLUKINAS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Bem-vindo ao meu perfil do GitHub! Sou um desenvolvedor apaixonado por tecnologia, programação e sempre em busca de novos desafios.
 
-Here are some ideas to get you started:
+## 🚀 Minhas Habilidades Em Desinvolvimento:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Linguagens:** HTML, CSS, JavaScript, Python, C#
+- **Ferramentas:** Git, VS Code, Node.js, React, Bootstrap
+
+## 📊 Minhas Estatísticas no GitHub:
+
+![Lucas Martins Bicudo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ofcLUKINAS&show_icons=true&theme=radical)
+
+![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=ofcLUKINAS&layout=compact&theme=radical)
+
+## 📫 Como me Encontrar:
+
+- **Email:** lmartinsbicudo@gmail.com
+- **Telefone/Whats:** (51) 99273-4623
+
+<a href="https://instagram.com/luquinha_chf7" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram">
+</a>
+
+---
+
+⭐️ **Dê uma estrela nos repositórios que você gosta!** ⭐️
+
