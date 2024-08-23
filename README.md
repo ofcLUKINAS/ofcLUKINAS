@@ -19,6 +19,14 @@ Bem-vindo ao meu perfil do GitHub! Sou um desenvolvedor apaixonado por tecnologi
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram">
 </a>
 
+<a href="mailto:lmartinsbicudo@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-%23FF5722.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+</a>
+
+<p style="background-color: #f0f0f0; padding: 10px;">
+  Meu número de telefone: <strong>(51) 99273-4623</strong>
+</p>
+
 ---
 ⭐️ **Dê uma estrela nos repositórios que você gosta!** ⭐️
 
