@@ -24,7 +24,7 @@ Bem-vindo ao meu perfil do GitHub! Sou um desenvolvedor apaixonado por tecnologi
 </a>
 
 <p style="background-color: #f0f0f0; padding: 10px;">
-  Meu número de telefone: <strong>(51) 99273-4623</strong>
+  📞 Meu número de telefone: <strong>(51) 99273-4623</strong>
 </p>
 
 ---
